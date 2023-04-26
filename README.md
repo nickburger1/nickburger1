@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick Burger (@nickburger1)
 - 👀 I’m interested in Automotive Technology
-- 🌱 I’m currently learning Computer Science/Cyber Security at SVSU
+- 🌱 BS of Computer Science with Cyber Security minor from SVSU
 - 📫 How to reach me (nrburger@svsu.edu)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=nickburger1&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
